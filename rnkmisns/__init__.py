@@ -1,1 +1,1 @@
-from rnkmisns import say_hello, say_hello2
+from rnkmisns.rnkmisns import say_hello, say_hello2
