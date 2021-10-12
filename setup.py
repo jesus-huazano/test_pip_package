@@ -18,7 +18,7 @@ setup(
     keywords=['SNS'],
     classifiers=[
         "Development Status :: 1 - Planning",
-        "Intended Audience :: Renkmi Developers",
+        "Intended Audience :: Rankmi Developers",
         "Programming Language :: Python :: 3",
         "Operating System :: Unix",
         "Operating System :: MacOS :: MacOS X",
