@@ -1,0 +1,8 @@
+README.md
+setup.py
+libname/__init__.py
+libname/hello.py
+rnkmi_sns.egg-info/PKG-INFO
+rnkmi_sns.egg-info/SOURCES.txt
+rnkmi_sns.egg-info/dependency_links.txt
+rnkmi_sns.egg-info/top_level.txt
