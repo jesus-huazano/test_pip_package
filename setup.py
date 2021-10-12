@@ -6,7 +6,7 @@ LONG_DESCRIPTION = ''
 
 # Setting up
 setup(
-    name="rnkmisns",
+    name="rankmisns",
     version=VERSION,
     author="Jesus Huazano (jesus.huazano)",
     author_email="<jesus.huazano@rankmi.com>",
