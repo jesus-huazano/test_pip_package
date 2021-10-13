@@ -14,7 +14,7 @@ setup(
     long_description_content_type="text/markdown",
     long_description=LONG_DESCRIPTION,
     packages=find_packages(),
-    install_requires=[],
+    install_requires=['boto3'],
     keywords=['SNS'],
     classifiers=[
         "Development Status :: 1 - Planning",

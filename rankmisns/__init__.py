@@ -1,1 +1,1 @@
-from .code import say_hello, say_hello2
+from rankmisns.code import ConnectToSNS
